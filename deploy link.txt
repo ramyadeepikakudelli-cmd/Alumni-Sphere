@@ -1,1 +1,1 @@
-alumni-sphere-2.vercel.app
+https://alumni-sphere-six.vercel.app
